@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @xsyagame
+- 👋 Oi, eu sou @sergio
 - 👀 Estou interessado na estética.
 - 🌱 Atualmente estou aprendendo html.
 - 💞️ Estou procurando colaborar em Pensamento Computacional.
