@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @xsyagame
+- 👀 Estou interessado na estética.
+- 🌱 Atualmente estou aprendendo html.
+- 💞️ Estou procurando colaborar em Pensamento Computacional.
+- 📫 Como chegar até mim. sergio.eduardo.martins@escola.pr.gov.br.
